@@ -26,5 +26,5 @@ O tabuleiro do jogo é representado por uma lista de 9 elementos, onde cada elem
 A lógica do jogo inclui a verificação de vitória, empates e movimentos do jogador e do computador.
 
 ## Executando o Jogo:
-No terminal, navegue até o diretório onde o arquivo 'jogo_da_velha.py' está localizado e execute o seguinte comando:
+No terminal, navegue até o diretório onde o arquivo `jogo_da_velha.py` está localizado e execute o seguinte comando:
 python jogo_da_velha.py
